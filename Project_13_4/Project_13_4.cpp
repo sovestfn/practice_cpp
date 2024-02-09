@@ -7,5 +7,5 @@
 
 int main()
 {
-    std::cout << "Square result: " << Square(2.5);
+    std::cout << "Square result: " << Square(2.5, 5);
 }

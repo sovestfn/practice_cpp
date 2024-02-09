@@ -1,4 +1,4 @@
 #pragma once
-float  Square (float a) {
-	return (a * a);
+float  Square (float a, float b) {
+	return pow ((a + b), 2);
 }
