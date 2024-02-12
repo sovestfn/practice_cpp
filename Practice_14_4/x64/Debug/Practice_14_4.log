@@ -1,0 +1,3 @@
+﻿  Practice_14_4.cpp
+E:\UE4 курс скиллбокс\UEjun_1\Projects_С++\Practice_14_4\Practice_14_4.cpp(12,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Practice_14_4.vcxproj -> E:\UE4 курс скиллбокс\UEjun_1\Projects_С++\Practice_14_4\x64\Debug\Practice_14_4.exe
