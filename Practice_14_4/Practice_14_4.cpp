@@ -16,12 +16,12 @@ void userString() {
         string firstChar(1, ch1);
         string lastChar(1, ch2);
 
-        if (firstChar == " " || "   ") {
-            firstChar = "пробел/табуляция";
+        if (firstChar == " ") {
+            firstChar = "пробел";
         }
 
-        if (lastChar == " " || "   ") {
-            lastChar = "пробел/табуляция";
+        if (lastChar == " ") {
+            lastChar = "пробел";
         }
 
         cout << "\n Длина строки: " << stringLength << "\n первый символ: " << firstChar << "\n последний символ: " << lastChar << "\n";
