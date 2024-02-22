@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UE4 \u043A\u0443\u0440\u0441 \u0441\u043A\u0438\u043B\u043B\u0431\u043E\u043A\u0441\\UEjun_1\\Projects_\u0421\u002B\u002B\\P_17_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C543636F-7596-443F-961C-8A314FFC8F9F}|P_17_5.vcxproj|E:\\UE4 \u043A\u0443\u0440\u0441 \u0441\u043A\u0438\u043B\u043B\u0431\u043E\u043A\u0441\\UEjun_1\\Projects_\u0421\u002B\u002B\\P_17_5\\P_17_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C543636F-7596-443F-961C-8A314FFC8F9F}|P_17_5.vcxproj|solutionrelative:P_17_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P_17_5.cpp",
+              "DocumentMoniker": "E:\\UE4 \u043A\u0443\u0440\u0441 \u0441\u043A\u0438\u043B\u043B\u0431\u043E\u043A\u0441\\UEjun_1\\Projects_\u0421\u002B\u002B\\P_17_5\\P_17_5.cpp",
+              "RelativeDocumentMoniker": "P_17_5.cpp",
+              "ToolTip": "E:\\UE4 \u043A\u0443\u0440\u0441 \u0441\u043A\u0438\u043B\u043B\u0431\u043E\u043A\u0441\\UEjun_1\\Projects_\u0421\u002B\u002B\\P_17_5\\P_17_5.cpp",
+              "RelativeToolTip": "P_17_5.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-16T07:21:57.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
